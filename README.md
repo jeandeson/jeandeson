@@ -16,7 +16,7 @@
 
 ## About me
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jeandeson)](https://github.com/jeandeson/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeandeson&theme=tokyonight)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeandeson&show_icons=true&theme=radical)
 
