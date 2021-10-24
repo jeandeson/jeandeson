@@ -17,6 +17,7 @@
 ## About me
 
 [![NOMEGIT GitHub stats](https://github-readme-stats.vercel.app/api?username=jeandeson)](https://github.com/jeandeson/github-readme-stats)
-[![jeandeson GitHub stats](https://github-readme-stats.vercel.app/api?username=jeandeson)](https://github.com/jeandeson/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeandeson&show_icons=true&theme=radical)
+
 
 - Obrigado pela visita.
