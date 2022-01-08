@@ -8,7 +8,7 @@
 
 :computer: Atualmente desenvolvo tanto no front quanto no back!
 
-:books: Estou evoluindo minhas habilidades em React e AspNet.
+:books: Estou evoluindo minhas habilidades em React, React-native Node-js e AspNet.
 
 :outbox_tray: Metas: Atuar como dev utilizando minhas linguagens favoritas.
 
